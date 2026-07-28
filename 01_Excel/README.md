@@ -1,14 +1,26 @@
-# Excel Projects
+# Employee Salary Report
 
-This folder contains my Excel practice and projects completed during my 90-Day Data Analyst Bootcamp.
+## Objective
+Analyse employee salary data using Excel.
 
-## Project 1
-Employee Salary Report
-
-Skills:
+## Skills Used
+- Data Entry
+- Formatting
 - SUM
 - AVERAGE
 - MAX
 - MIN
 - COUNT
 - Sorting
+
+## Dataset
+
+| Employee | Department | Salary | Bonus |
+|-----------|------------|--------|-------|
+
+## Learning Outcome
+
+- Learned Excel basics
+- Used formulas
+- Created summary statistics
+- Practised sorting
