@@ -144,6 +144,6 @@ Through this project, I learned how to:
 
 ---
 
-**Author:** Sunil Kumar Polisetti
+**Author:** Manasa Polisetty
 
 **GitHub:** https://github.com/Manasapolisetty
