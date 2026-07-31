@@ -200,7 +200,7 @@ After completing this project, I learned to:
 
 ## 👨‍💻 Author
 
-**Sunil Kumar Polisetti**
+**Manasa Polisetty**
 
 ### GitHub
 
